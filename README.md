@@ -2,7 +2,7 @@
 
 ## Store System - It's a protoype project.
 
-### created with C# and using windows forms.
+### Created using C# with windows forms.
 
 
 ### Project Description
