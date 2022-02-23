@@ -1,8 +1,6 @@
 # Store_Desktop_App 🏪
 
-## Store System - It's a protoype project.
-
-### Created using C# with windows forms.
+### Store System - It's a protoype project. Created using C# with windows forms.
 
 
 ### Project Description
