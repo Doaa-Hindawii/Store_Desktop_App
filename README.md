@@ -18,10 +18,10 @@ The task was to build a store management system, with many features:
 
 
 ## Thanks to my team:
-- Sahar Ali Mazoz
-- Mennat-Allah Salah
-- Aml Mohamed
-- Dina Emad 
+ #### - Sahar Ali Mazoz
+ #### - Mennat-Allah Salah
+ #### - Aml Mohamed
+ #### - Dina Emad 
 
 
 
