@@ -1,4 +1,4 @@
-# Store_Desktop_App
+# Store_Desktop_App 🏪
 
 ## Store System - It's a protoype project.
 
