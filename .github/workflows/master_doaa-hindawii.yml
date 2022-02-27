@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Doaa-Hindawii'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D8CD58C74231465BA5148C732D7FB3FF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_95AC395786E549D59C3A2F30771E3153 }}
           package: .
